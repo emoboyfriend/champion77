@@ -10,7 +10,24 @@
       "serverlink": "https://mygoaltv.xyz/",
       "match": "{\n\"servername\":\"https://mygoaltv.xyz/\",\n\n\"elements\":\"div.match-list div.match\",\n\n\"league\":\"div.league\",\n\n\"date\":\"div.score span.vs\",\n\n\"time\":\"div.score div.time font\",\n\n\"home_team\":\"div.home-team img.team-logo\",\n\n\"home_img\":\"div.home-team img.team-logo\",\n\n\"away_team\":\"div.away-team img.team-logo\",\n\n\"away_img\":\"div.away-team img.team-logo\",\n\n\"live_href\":\"ul li.video-p a\"\n\n\n\n\n}",
       "news": "{\n\"servername\":\"https://mysportmyanmar.com/\",\n\n\"newsArticle\":\"div.tabcontent div.main-blog-div.all-article div.withGrid.one-three\",\n\n\"newsCatagory\":\"div.category\",\n\n\"newsDate\":\"div.date\",\n\n\"newsTitle\":\"div.title\",\n\n\"newsThumbnail\":\"div.imageWrapper img\",\n\n\"newsLink\":\"a\"\n\n}",
-      "hilight": "{\n\"servername\":\"https://www.fasthighlights.net/tag/home/page/\",\n\n\"elements\":\"div.row div#aft-inner-row article\",\n\n\"title\":\"div.align-items-center div.spotlight-post figcaption h3 a\",\n\n\"tag\":\"div.align-items-center div.spotlight-post figure.categorised-article.inside-img div.categorised-article-wrapper div.figure-categories.figure-categories-bg ul.cat-links li a\",\n\n\"date\":\"div.align-items-center div.spotlight-post figcaption div.grid-item-metadata a\",\n\n\"thumbnail\":\"div.align-items-center div.spotlight-post figure.categorised-article.inside-img div.categorised-article-wrapper a img\",\n\n\"link\":\"div.align-items-center div.spotlight-post figure.categorised-article.inside-img div.categorised-article-wrapper a\"\n\n\n}"
+      "hilight": "{\n\"servername\":\"https://www.fasthighlights.net/tag/home/page/\",\n\n\"elements\":\"div.row div#aft-inner-row article\",\n\n\"title\":\"div.align-items-center div.spotlight-post figcaption h3 a\",\n\n\"tag\":\"div.align-items-center div.spotlight-post figure.categorised-article.inside-img div.categorised-article-wrapper div.figure-categories.figure-categories-bg ul.cat-links li a\",\n\n\"date\":\"div.align-items-center div.spotlight-post figcaption div.grid-item-metadata a\",\n\n\"thumbnail\":\"div.align-items-center div.spotlight-post figure.categorised-article.inside-img div.categorised-article-wrapper a img\",\n\n\"link\":\"div.align-items-center div.spotlight-post figure.categorised-article.inside-img div.categorised-article-wrapper a\"\n\n\n}",
+      "cucai2":{
+"servername":"https://cucai2.live/",
+"html_elements":"div.container div.box.box-grid.mb-0 div.box-content div.scrolling-wrapper-flexbox a",
+"html_homeTeam":"div.card div.team.team-home img.team-logo-img",
+"html_awayTeam":"div.card div.team.team-away img.team-logo-img",
+"html_homeImg":"div.card div.team.team-home img.team-logo-img",
+"html_awayImg":"div.card div.team.team-away img.team-logo-img",
+"html_homeGoal":"div.card span.v-center.goals-home",
+"html_awayGoal":"div.card span.v-center.goals-away",
+"html_date":"div.card div.match-item-info div.time span",
+"html_hour":"div.card div.match-item-info div.status span",
+"html_dataStatus":"div.card div.match-item-live.d-none div.badge-live",
+"html_minutes":"div.card div.match-item-live.d-none div.status_elapsed_wrapper span.status_elapsed",
+"html_liveHref":"href"
+
+}
+
     }
   ]
 }
